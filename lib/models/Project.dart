@@ -8,31 +8,31 @@ List<Project> demoProjects = [
   Project(
     title: "Menu Finder Africa - Mobile App",
     description:
-        "On Flutter V2.* web officially supported on a stable branch. Today I share an Admin panel or you can call it dashboard UI build with flutter. Now you can build your app dashboard using flutter. This dashboard contains almost everything that you need like a chart, table, nice small card for showing info.",
-  ),
-  Project(
-    title: "DoorTo - Mobile App",
-    description:
-        "In the first part of our complete e-commerce app, we show you how you can create a nice clean onboarding screen for your e-commerce app that can run both Andriod and iOS devices because it builds with flutter. Then on the second episode, we build a Sign in, Forgot Password screen with a custom error indicator.",
+        "The online food delivery app Menu Finder Africa (MFA) is used by Ghanaians to place orders online. In this app, I have focused mostly on the UI, implemented many APIs for restaurant details, searched restaurants by cuisine, etc. Implemented a payment gateway for subscription and order payment.",
   ),
   Project(
     title: "Being Pupil - Mobile App",
     description:
-        "We redesign the outlook app also make it responsive so that you can run it everywhere on your phone, tab, or web. In this flutter responsive video, we will show you the real power of flutter. Make mobile, web, and desktop app from a single codebase.",
+        "Both students and educators can benefit from Being Pupil's online education app. I have completed this project. This app allows students and educators to sign up after their profiles have been verified. With the app, educators can post, create courses, create Stay & Study (tuition), and connect with students via in-app chat. It allows students to enroll in courses, connect with educators, and much more. Implemented all APIs, Razor Pay - for subscriptions, Push notifications, Cashlytics, and Analytics.",
   ),
   Project(
     title: "Rook Connect - Mobile App",
     description:
-        "Today we gonna build messing/chat app #ui using #flutter that runs both Android and iOS devices also has a dark and light theme. We create in total 4 screens all of that support both Dark Theme and Light Theme. At first, we design a welcome screen that contains an image with a tag line also has a skip button.",
+        "Rook Connect is an app for drivers that allows them to track all the time, even when the app is offline. The driver can see notes and documents added by the admin to work orders. The driver can scan the QR code, upload images, upload notes, and upload extra services. All these functionalities are available offline as well because most of the time drivers drive trucks in remote areas. This app includes special features like tracking coordinates in background mode in both Online and Offline modes. It also uploads images, notes, and QR codes offline as well.",
   ),
   Project(
-    title: "The Unsigned Club - Mobile App",
+    title: "DoorTo - Mobile App",
     description:
-        "In the first part of our complete e-commerce app, we show you how you can create a nice clean onboarding screen for your e-commerce app that can run both Andriod and iOS devices because it builds with flutter. Then on the second episode, we build a Sign in, Forgot Password screen with a custom error indicator.",
+        "A DoorTo app provides a pick-up and drop-off service for both personal and business needs. The majority of my work has been on the user interface. With this app, you can place an order from the mall for items or groceries, which will be delivered to your address.  ",
   ),
   Project(
-    title: "Menu 2 Order - Mobile App",
+    title: "Menu2Order - Mobile App",
     description:
-        "We redesign the outlook app also make it responsive so that you can run it everywhere on your phone, tab, or web. In this flutter responsive video, we will show you the real power of flutter. Make mobile, web, and desktop app from a single codebase.",
+        "Menu2Order (M2O) is an app for restaurants. M2O allows restaurants to get delivery and pick-up orders in real-time with Firestore Cloud Storage. This app helps printers connect with Bluetooth and LAN. The M2O app allows you to use to create and redeem gift cards. Restaurants can manage timing, menus, sales reports, order history, etc.",
+  ),
+  Project(
+    title: "LinkCity - Mobile App",
+    description:
+        "LinkCity is a cab booking app. There are two different apps for Riders and Drivers. During the booking process, a rider can book a cab, and a nearby driver can accept or decline the request. There are three categories of rides that a rider can book.",
   ),
 ];
